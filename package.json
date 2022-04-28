@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-fundamentals",
+  "version": "1.0.0",
+  "description": "Node.js fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GachumalaP/nodejs-fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GachumalaP/nodejs-fundamentals/issues"
+  },
+  "homepage": "https://github.com/GachumalaP/nodejs-fundamentals#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
